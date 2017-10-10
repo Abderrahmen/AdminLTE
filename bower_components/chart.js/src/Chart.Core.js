@@ -5,7 +5,7 @@
  *
  * Copyright 2015 Nick Downie
  * Released under the MIT license
- * https://github.com/nnnick/Chart.js/blob/master/LICENSE.md
+ * https://github.com/nnnick/chart.js/blob/master/LICENSE.md
  */
 
 

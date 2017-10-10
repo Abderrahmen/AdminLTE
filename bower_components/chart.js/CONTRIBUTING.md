@@ -7,9 +7,9 @@ Contributions to Chart.js are welcome and encouraged, but please have a look thr
 Using issues
 ------------
 
-The [issue tracker](https://github.com/nnnick/Chart.js/issues) is the preferred channel for reporting bugs, requesting new features and submitting pull requests.
+The [issue tracker](https://github.com/nnnick/chart.js/issues) is the preferred channel for reporting bugs, requesting new features and submitting pull requests.
 
-If you're suggesting a new chart type, please take a look at [writing new chart types](https://github.com/nnnick/Chart.js/blob/master/docs/06-Advanced.md#writing-new-chart-types) in the documentation, and some of the [community extensions](https://github.com/nnnick/Chart.js/blob/master/docs/06-Advanced.md#community-extensions) that have been created already.
+If you're suggesting a new chart type, please take a look at [writing new chart types](https://github.com/nnnick/chart.js/blob/master/docs/06-Advanced.md#writing-new-chart-types) in the documentation, and some of the [community extensions](https://github.com/nnnick/chart.js/blob/master/docs/06-Advanced.md#community-extensions) that have been created already.
 
 To keep the library lightweight for everyone, it's unlikely we'll add many more chart types to the core of Chart.js, but issues are a good medium to design and spec out how new chart types could work and look.
 
@@ -40,9 +40,9 @@ Guidlines:
  - Please create an issue first:
    - For bugs, we can discuss the fixing approach
    - For enhancements, we can discuss if it is within the project scope and avoid duplicate effort
- - Please make changes to the files in [`/src`](https://github.com/nnnick/Chart.js/tree/master/src), not `Chart.js` or `Chart.min.js` in the repo root directory, this avoids merge conflicts
+ - Please make changes to the files in [`/src`](https://github.com/nnnick/chart.js/tree/master/src), not `Chart.js` or `Chart.min.js` in the repo root directory, this avoids merge conflicts
  - Tabs for indentation, not spaces please
- - If adding new functionality, please also update the relevant `.md` file in [`/docs`](https://github.com/nnnick/Chart.js/tree/master/docs)
+ - If adding new functionality, please also update the relevant `.md` file in [`/docs`](https://github.com/nnnick/chart.js/tree/master/docs)
  - Please make your commits in logical sections with clear commit messages
 
 Joining the Project
@@ -52,4 +52,4 @@ Joining the Project
 License
 -------
 
-By contributing your code, you agree to license your contribution under the [MIT license](https://github.com/nnnick/Chart.js/blob/master/LICENSE.md).
+By contributing your code, you agree to license your contribution under the [MIT license](https://github.com/nnnick/chart.js/blob/master/LICENSE.md).
